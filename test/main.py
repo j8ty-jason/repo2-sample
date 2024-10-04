@@ -1,4 +1,4 @@
-i=0;
-while(i<10):
-  print("Hello world")
-  i++
+username = input("Enter name: ")
+age = input("Enter age: ")
+
+print("Hello " + username + age)
